@@ -147,7 +147,7 @@ width: 50%;
 height:40vh;
   }
   .pro-2>img{
-width:48%;
+width:50%;
 height:40vh;
   }
   .pro-1 {
@@ -249,7 +249,7 @@ height:40vh;
       height: 70%;
     }
   .pro-1, .pro-2{
-    padding-left: 1%;
+    padding-left: 2%;
   }
   .pro-d{
     display: flex;
@@ -275,7 +275,7 @@ height:40vh;
     .pro-2>img {
       height: 40vh;
       /* width: 150%; */
-      width: 120%;
+      width: 150%;
     }
     .bot {
       display: flex;
@@ -296,7 +296,7 @@ height:40vh;
       padding-bottom: 1rem;
     } 
     .t-1, .t-2, .t-3 {
-      padding-left:3% ;
+      padding-left:0 ;
       padding-right:6% ;
       padding-bottom: 3%;
     }
