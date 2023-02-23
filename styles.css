@@ -249,7 +249,7 @@ height:40vh;
       height: 70%;
     }
   .pro-1, .pro-2{
-    padding-left: 2%;
+    padding-left: 4%;
   }
   .pro-d{
     display: flex;
@@ -257,7 +257,7 @@ height:40vh;
     align-items: baseline;
   }
   .pro>h1 {
- padding: 2%;
+ padding: 4%;
   }
   .pro-div {
     display: flex;
